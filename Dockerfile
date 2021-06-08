@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
   git \
   grep \
   jq \
+  moreutils \
   nano \
   openssh-client \
   sed \

@@ -61,6 +61,7 @@ A small utility Ubuntu based Docker image with various tools preinstalled. Creat
 * [gawk](https://www.gnu.org/software/gawk/)
 * [git](https://git-scm.com/)
 * [jq](https://stedolan.github.io/jq/)
+* [moreutils](http://joeyh.name/code/moreutils/)
 * [nano](https://www.nano-editor.org/)
 * [tree](https://linux.die.net/man/1/tree)
 * [vim](https://www.vim.org/)

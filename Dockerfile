@@ -1,7 +1,7 @@
-FROM ubuntu:focal
+FROM ubuntu:bionic
 
 LABEL author="tr1et"
-LABEL ubuntu-release="focal"
+LABEL ubuntu-release="bionic"
 
 RUN apt-get update && apt-get install -y \
   coreutils \

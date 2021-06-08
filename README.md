@@ -1,5 +1,7 @@
 <!-- PROJECT SHIELDS -->
 
+[![Docker Pulls][docker-shield]][docker-url]
+[![Docker Cloud Automated build][docker-build-shield]][docker-build-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -131,13 +133,17 @@ Project Link: [https://github.com/tr1et/docker-ubuntu-toolbox](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/tr1et/repo.svg?style=for-the-badge
+[docker-shield]: https://img.shields.io/docker/pulls/tr1et/ubuntu-toolbox?style=for-the-badge
+[docker-url]: https://hub.docker.com/r/tr1et/ubuntu-toolbox
+[docker-build-shield]: https://img.shields.io/docker/cloud/automated/tr1et/ubuntu-toolbox?style=for-the-badge
+[docker-build-url]: https://hub.docker.com/r/tr1et/ubuntu-toolbox/builds
+[forks-shield]: https://img.shields.io/github/forks/tr1et/docker-ubuntu-toolbox?style=for-the-badge
 [forks-url]: https://github.com/tr1et/docker-ubuntu-toolbox/network/members
-[stars-shield]: https://img.shields.io/github/stars/tr1et/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tr1et/docker-ubuntu-toolbox?style=for-the-badge
 [stars-url]: https://github.com/tr1et/docker-ubuntu-toolbox/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tr1et/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/tr1et/docker-ubuntu-toolbox?style=for-the-badge
 [issues-url]: https://github.com/tr1et/docker-ubuntu-toolbox/issues
-[license-shield]: https://img.shields.io/github/license/tr1et/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/tr1et/docker-ubuntu-toolbox?style=for-the-badge
 [license-url]: https://github.com/tr1et/docker-ubuntu-toolbox/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/triet-le-677385aa

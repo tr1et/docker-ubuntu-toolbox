@@ -74,7 +74,7 @@ A small utility Ubuntu based Docker image with various tools preinstalled. Creat
 To run the container (interactively):
 
 ```bash
-docker run -it tr1et/ubuntu-toolbox:latest
+docker run -it tr1et/ubuntu-toolbox:focal
 ```
 
 ### Prerequisites
@@ -92,7 +92,7 @@ docker run -it tr1et/ubuntu-toolbox:latest
 2. Build the image
 
    ```sh
-   docker build -t ubuntu-toolbox:latest -f Dockerfile .
+   docker build -t ubuntu-toolbox:focal -f Dockerfile .
    ```
 
 <!-- USAGE EXAMPLES -->
